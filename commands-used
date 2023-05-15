@@ -1,0 +1,2 @@
+
+ssh -i migration_key.pem ec2-user@18.184.62.66 -L 8000:10.0.1.205:80
